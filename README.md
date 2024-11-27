@@ -7,7 +7,7 @@ This project is a simple Node.js application that serves random jokes via an API
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/random-jokes-api.git
+   git clone https://github.com/saurabhverma35542178034/JokeAPI_NodeJS
 
 
    
